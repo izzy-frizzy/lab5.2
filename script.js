@@ -24,7 +24,7 @@ form.addEventListener("submit", function (event) {
   ) {
     alert("Account created successfully!");
   } else {
-    alert("input filed missing");
+    alert("input missing");
   }
 });
 
